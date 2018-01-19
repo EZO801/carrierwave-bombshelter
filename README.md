@@ -1,6 +1,7 @@
 # CarrierWave::BombShelter
 
 [![Build Status](https://travis-ci.org/DarthSim/carrierwave-bombshelter.svg)](https://travis-ci.org/DarthSim/carrierwave-bombshelter)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcarrierwave-bombshelter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcarrierwave-bombshelter?ref=badge_shield)
 
 BombShelter is a module which protects your uploaders from image bombs like https://www.bamsoftware.com/hacks/deflate.html and http://www.openwall.com/lists/oss-security/2016/05/03/18. It checks type and pixel dimensions of uploaded image before ImageMagick touches it.
 
@@ -77,3 +78,6 @@ Please don't create PRs that add locales. I can't maintain locales of languages 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcarrierwave-bombshelter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcarrierwave-bombshelter?ref=badge_large)
